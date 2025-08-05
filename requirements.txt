@@ -1,4 +1,0 @@
-flask
-yfinance
-matplotlib
-feedparser
